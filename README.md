@@ -34,7 +34,7 @@ Perfect! We can add **ElementVerse** as your first featured project, above Smart
 
 ## Featured Projects
 
-### [ElementVerse]([https://elementverse.onrender.com/](https://www.linkedin.com/posts/faraaz-ansari-0030ba29a_fullstackdevelopment-pythonflask-webdevelopment-activity-7354906717001854977-jK0u?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEhGHoMB8KW9XFq7Psms9xh4UiJwmSkB_vs))
+### [ElementVerse](https://www.linkedin.com/posts/faraaz-ansari-0030ba29a_fullstackdevelopment-pythonflask-webdevelopment-activity-7354906717001854977-jK0u?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEhGHoMB8KW9XFq7Psms9xh4UiJwmSkB_vs)
 
 ### [Link for the working App](https://elementverse.onrender.com/)
 
