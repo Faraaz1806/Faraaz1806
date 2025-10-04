@@ -1,6 +1,3 @@
-Got it! Let’s make it **honest, clean, and focused on UI/UX, front-end, and problem-solving**, without overacting. Here’s a refined version:
-
----
 
 # Assalamualaikum, I'm Mohammad Faraaz
 
@@ -68,8 +65,3 @@ I handled **UI, database flow, and project structuring**.
 
 Thanks for reading this far — I value **real effort over perfection**.
 
----
-
-If you want, I can also make a **slightly shorter, punchy version** optimized for recruiters to read in under a minute — still honest but sharper.
-
-Do you want me to do that?
